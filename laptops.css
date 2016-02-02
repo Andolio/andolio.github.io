@@ -10,13 +10,26 @@ h1 {
 	text-align: -webkit-center;
 }
 
+h2 {
+	
+	color:#00ff1f;
+	
+}
+
 p {
 	
 	color:white;
 	
 }
 
+
 li {
 	
 	color:white;
+}
+
+div.Recommended Requirements {
+	
+	color: #00ff1f;
+	
 }
