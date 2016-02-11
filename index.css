@@ -43,6 +43,23 @@ p {
 	
 }
 
+.p2 {
+
+	text-align: center;
+	font-family: Orbitron;
+	font-size: 25px;
+	color: blue;
+	padding: 60px;
+	background-color: white;
+	width: 500px;
+	height: 200px;
+	position: center;
+	background-position: center;
+	background
+
+
+}
+
 button {
 	background-color: #00ff1f;
 	text-align: center;
