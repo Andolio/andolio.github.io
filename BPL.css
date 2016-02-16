@@ -1,6 +1,6 @@
 body {
 
-	background-color:gray;
+	background-color:white;
 	
 }
 
@@ -15,11 +15,12 @@ h1 {
 table {
 	border: 1px;
 	border-color: white;
-	background-color: black;
+	background-color: rgb(232,232,232) ;
 	color: white;
 	font-size: 20px;
 	width: 760px;
 	text-align: center;
 	font-family: Ubuntu;
+	table-layout: center;
 
 }
