@@ -22,5 +22,7 @@ table {
 	text-align: center;
 	font-family: Arial;
 	table-layout: center;
-
+	width: 80%;
+    height: 80%;
+    position: relative;
 }
